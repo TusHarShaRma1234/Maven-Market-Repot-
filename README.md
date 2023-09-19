@@ -31,5 +31,7 @@ Test the bookmark by CTRL-clicking the button
 Find 2-3 additional insights from the Topline Performance tab and add new bookmarks and notes linking back
 10) Get creative! Practice creating new visuals, pages, or bookmarks to continue exploring the data!
 
+    ![Screenshot 2023-09-20 000612](https://github.com/TusHarShaRma1234/Sales-Performance-Analysis-/assets/95712713/c4ebd50c-1f17-41f2-91b8-703960b34ebe)
+
 Here it the link to the porject 
 (https://app.powerbi.com/groups/me/reports/e34636ac-f342-40ec-a054-fc8ff81dde4a/ReportSection?experience=power-bi)
