@@ -31,4 +31,6 @@ Test the bookmark by CTRL-clicking the button
 Find 2-3 additional insights from the Topline Performance tab and add new bookmarks and notes linking back
 10) Get creative! Practice creating new visuals, pages, or bookmarks to continue exploring the data!
 
+    ![Screenshot 2023-08-23 151125](https://github.com/TusHarShaRma1234/Maven-Market-Repot-/assets/95712713/3cf3d192-e068-40db-a9f0-1ee41b8e2920)
+
 [Here it the link to the porject]([https://app.powerbi.com/groups/me/reports/e34636ac-f342-40ec-a054-fc8ff81dde4a/ReportSection?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiMjVhMDI3NDItMjYyNy00YjBkLThiYzctMmIxMGI5NzIwMzgwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)https://app.powerbi.com/view?r=eyJrIjoiMjVhMDI3NDItMjYyNy00YjBkLThiYzctMmIxMGI5NzIwMzgwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
